@@ -220,4 +220,4 @@ I have received a grade of **1.0** for the case study, under the supervision of 
 
 **License:** All rights reserved by Group B08. 
 
-![image](images/Edge device architecture.jpg)
+![Edge Device Architecture](<images/Edge device architecture.jpg>)

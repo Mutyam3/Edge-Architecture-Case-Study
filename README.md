@@ -219,7 +219,7 @@ This is an educational Pac-Man case study and is not affiliated with or endorsed
 
 ## 🏅 Result and team
 
-The team received a grade of **1.0** for the case study, under the supervision of **Prof. Dr. Matthias Górka**.
+I have received a grade of **1.0** for the case study, under the supervision of **Prof. Dr. Matthias Górka**.
 
 - Rohit Purushottam Sorte — `12504420`
 - Mutyam Bhargav Reddy — `12503553`

@@ -188,13 +188,6 @@ The requirements sheet sets the following performance goals. The measurements be
 
 Many requirements are marked under review or prototype stage in the requirements sheet. The supplied source shows the intended features, but it does not include a completed test report proving that every target passed on the assembled hardware.
 
-## 📷 Project photos
-
-The first photo shows the controllers and wired Raspberry Pi setup. The second shows a Raspberry Pi connected to its touchscreen at the boot screen.
-
-![Controllers and wired Raspberry Pi setup](images/bench-setup.jpg)
-
-![Raspberry Pi connected to the touchscreen](images/raspberry-pi-display.jpg)
 
 ## 📁 Source files
 
@@ -225,4 +218,6 @@ I have received a grade of **1.0** for the case study, under the supervision of 
 - Mutyam Bhargav Reddy — `12503553`
 - Balabolu Kedarnath — `12505137`
 
-**License:** All rights reserved by Group B08.
+**License:** All rights reserved by Group B08. 
+
+![image](images/Edge device architecture.jpg)
